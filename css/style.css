@@ -104,6 +104,12 @@ li {
     font: 500 27px/72px "Poppins", sans-serif;
     margin-bottom: 77px;
 }
+
+/* whatsapp icon */
+.waticon {
+    padding-right: 5%;
+}
+
 @media(max-width:991px) {
     .btn-primary.btn-lg {
     padding: 0 70px;
@@ -217,14 +223,12 @@ li {
 }
 .btn-block {
     font: 600 19px/63px "Poppins", sans-serif;
-    text-transform: uppercase;
     border: none;
     transition: all 300ms linear 0s;
     border-radius: 0;
     background: #0084ff;
     color: #fff;
     white-space: nowrap;
-    overflow: hidden;
     text-overflow: ellipsis;
 }
 .btn-block.btn-rounded {
@@ -481,7 +485,6 @@ textarea.form-control {
     margin-bottom: 15px;
 }
 }.section-header p {
-    max-width: 710px;
     margin: 0 auto 20px;
     font: 300 20px/32px "Poppins", sans-serif;
 }
