@@ -108,6 +108,8 @@ li {
 /* whatsapp icon */
 .waticon {
     padding-right: 5%;
+    background-color: green;
+    border-radius: 100%;
 }
 
 @media(max-width:991px) {
@@ -579,7 +581,8 @@ textarea.form-control {
     font: 500 16px/40px "Poppins", sans-serif;
 }
 .top-banner {
-    padding-top: 190px;
+    padding-top: 130px;
+    padding-bottom: 50px;
 }
 @media(max-width:767px) {
     .top-banner {
@@ -3184,3 +3187,17 @@ footer.row {
 .pricing--featured {
     border: 0;
 }
+
+.test_img img{
+    width: 20%;
+    border-radius: 60px;
+    margin: 20px;
+}
+.x a:hover {
+    color:blue;
+    padding-left: 14px;
+    font-weight: bold;
+    background-image: url(images/kiya_pp.jpg);
+    background-position: 0 -15px;
+    background-repeat: no-repeat;
+    }
