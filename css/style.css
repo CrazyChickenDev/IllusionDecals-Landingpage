@@ -23,7 +23,7 @@ h2, .h2 {
 }
 p {
     font: 300 14px/26px "Poppins", sans-serif;
-    color: #82898f;
+    color: #ffffff;
 }
 li {
     font: 300 14px/26px "Poppins", sans-serif;
@@ -450,7 +450,7 @@ textarea.form-control {
     margin: 20px 0;
     font: 600 65px/1 "Poppins", sans-serif;
     letter-spacing: -3px;
-    color: #374048;
+    color: #ffffff;
 }
 .btn-md {
     padding: 0 33px;
